@@ -1,1 +1,33 @@
+What is Azure Fundamentals?
+Azure Fundamentals is a series of three learning paths that familiarize you with Azure and its many services and features.
+Whether you're interested in compute, networking, or storage services; learning about cloud security best practices; 
+or exploring governance and management options, think of Azure Fundamentals as your curated guide to Azure.
 
+
+What is Cloud computing?
+Cloud computing is the delivery of computing services over the Internet. 
+Computing services include common IT infrastructure such as virtual machines, storage databases and networking. 
+Cloud services also expand the traditional IT offerings to include things like Internet of Things (IoT), machine learning (ML) and artificial intelligence a (AI). 
+With cloud computing the PC is in a cloud provider's data center instead of physically with you. 
+This lets you pay for only the services you use, plus someone else gets to manage the upkeep of the computer. 
+Each cloud provider will have their own selection of services to choose from, but the basic service is provided by all cloud providers are "compute power" and "storage". 
+
+"Compute power" is how much processing your computer can do. 
+For example, when buying a home computer you may choose a computer with 8 gigabytes of RAM and the latest processor to run the software, you need today, 
+but as a load on the computer grows, you find that it slows down. With cloud computing, you can add and remove compute power as you need it. 
+This saves on cost, since you only pay for the resources you use. 
+
+"Storage" is the volume of data you can store on your computer. A traditional computer has limited hard drive space. 
+Overtime, you may have to run out and buy another hard drive to store more data. With cloud computing, you can request more storage as you need it. 
+cloud providers manage the upkeep of the computer, so you don't have to. They will make sure that there are backups, 
+that the operating systems is up to date as well as making sure that everything is up and running 24 hours a day. 
+As your business grows and your computing needs change, you can quickly bring on new computing resources in a cost effective way. 
+
+
+Describe the shared responsibility model?
+Start with a traditional corporate datacenter. 
+The company is responsible for maintaining the physical space, ensuring security, and maintaining or replacing the servers if anything happens. 
+The IT department is responsible for maintaining all the infrastructure and software needed to keep the datacenter up and running. 
+They’re also likely to be responsible for keeping all systems patched and on the correct version.
+With the shared responsibility model, these responsibilities get shared between the cloud provider and the consumer. 
+Physical security, power, cooling, and network connectivity are the responsibility of the cloud provider. 
