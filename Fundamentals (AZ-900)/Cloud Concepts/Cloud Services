@@ -1,1 +1,29 @@
+High Availability:
+High availability focuses on ensuring maximum availability, regardless of disruptions or events that may occur. 
+Azure is a highly available cloud environment with uptime guarantees depending on the service. These guarantees are part of the service-level agreements (SLAs).
 
+
+Scalability:
+Scalability refers to the ability to adjust resources to meet demand. 
+If you suddenly experience peak traffic and your systems are overwhelmed, the ability to scale means you can add more resources to better handle the increased demand.
+Scaling generally comes in two varieties: vertical and horizontal. 
+Vertical scaling is focused on increasing or decreasing the capabilities of resources. Horizontal scaling is adding or subtracting the number of resources.
+
+Vertical scaling:
+With vertical scaling, if you were developing an app and you needed more processing power, you could vertically scale up to add more CPUs or RAM to the virtual machine.
+
+Horizontal scaling:
+With horizontal scaling, if you suddenly experienced a steep jump in demand, your deployed resources could be scaled out (either automatically or manually). 
+For example, you could add additional virtual machines or containers, scaling out.
+
+
+Service Level Agreement:
+A Service level agreement (SLA)  is the formal agreement between a service provider and customer that guarantees the customer a stated level of service. 
+SLAs are also used inside organizations, in a agreement between the IT department and the business users. 
+SLA commonly includes details like what is defined as downtime, when the service is unavailable , and any credit you may be entitled to, if the SLA is not met. 
+
+
+Reliability:
+Reliability is the ability of a system to recover from failures and continue to function. 
+The cloud, by virtue of its decentralized design, naturally supports a reliable and resilient infrastructure. 
+With a decentralized design, the cloud enables you to have resources deployed in regions around the world.
